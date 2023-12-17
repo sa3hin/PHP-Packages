@@ -1,6 +1,6 @@
 {
     "name": "wporg/wporg-mu-plugins",
-    "version": "dev-build",
+    "version": "30",
     "description": "PHP Package Test",
     "type": "library",
     "license": "MIT",
